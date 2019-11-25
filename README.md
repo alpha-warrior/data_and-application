@@ -1,3 +1,3 @@
 # data_and-application
 
-A database to regulate the jail system of India. :P
+A database and management system to regulate the jail system of India. :P
